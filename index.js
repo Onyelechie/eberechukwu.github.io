@@ -121,10 +121,11 @@ window.addEventListener('DOMContentLoaded', function() {
                 "👋 Welcome to Ebere's Portfolio Website.\n"+
                 "Hello, everyone! I'm a dedicated and driven computer science student with a strong passion for coding, problem-solving, and innovation."+
                 "\nMy academic journey at the University of Manitoba has equipped me with a solid foundation in"+" computer science, complemented by a keen interest in the analytical aspects of mathematics and economics.\n\n"+
-                "\nProfessional Experience:\nCurrently, I am a Quant trading and research intern at"+" Quantreo creating an algorithmic trading bot to automate the process of trading analysis and execution."+
+                "\nProfessional Experience:\nCurrently, I am an Data Analyst intern at"+" IGM Financial (IG Wealth Management)"+
                 "\nI am also working as a Software Developer at Limitless Aeronautics, a cutting-edge aerospace technology company. "+
                 "\nIn my role, I contribute to the development of state-of-the-art software solutions that power next-generation aviation technology. "+
                 "\nI thrive in an environment that encourages creativity and problem-solving, and I'm excited to be a part of a team that is reshaping the future of aviation.\n\n"+
+                "\nI was also a Quant trading and research intern at"+" Quantreo creating an algorithmic trading bot to automate the process of trading analysis and execution." +
                 "\nExperienced in Python, R, Java, JavaScript, C++, C, HTML, and CSS.\n\n"+
                 "\nAcademic Pursuits:\nMy academic journey is fueled by a desire to understand the theoretical foundations of computer science, mathematics, and economics, "+
                 "while also applying this knowledge in practical, real-world settings. "+
